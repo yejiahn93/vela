@@ -2,5 +2,5 @@
 ## Description
 Online candle shop
 
-## wireframe
+## Wireframe
 <img src="vela-wireframe.png">
