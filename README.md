@@ -1,6 +1,6 @@
 # vela
 ## Description
-Online candle shop
+Online candle shop.
 
 ## Wireframe
 <img src="vela-wireframe.png">
